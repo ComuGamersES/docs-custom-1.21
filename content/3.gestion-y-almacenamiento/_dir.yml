@@ -1,0 +1,6 @@
+title: Gestión y Almacenamiento
+icon: lucide:house
+navigation.redirect: /gestion-y-almacenamiento/player-vaults
+sidebar:
+  style: group
+collapse: false

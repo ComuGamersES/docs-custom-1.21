@@ -1,7 +1,7 @@
 export default defineAppConfig({
   shadcnDocs: {
     site: {
-      name: 'shadcn-docs-nuxt',
+      name: 'ComuGamers Wiki',
       description: 'Beautifully designed Nuxt Content template built with shadcn-vue. Customizable. Compatible. Open Source.',
     },
     theme: {
@@ -38,7 +38,7 @@ export default defineAppConfig({
       showTitle: true,
     },
     footer: {
-      credits: 'Copyright © 2024',
+      credits: 'Copyright © 2025',
       links: [{
         icon: 'lucide:github',
         to: 'https://github.com/ZTL-UwU/shadcn-docs-nuxt',

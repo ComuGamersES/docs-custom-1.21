@@ -96,3 +96,9 @@
     @apply bg-background text-foreground;
   }
 }
+
+.center-image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}

@@ -1,0 +1,7 @@
+title: Primeros Pasos
+icon: lucide:rocket
+navigation.redirect: /primeros-pasos/como-iniciar
+sidebar:
+  style: group
+collapse: false
+position: 1

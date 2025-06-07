@@ -1,0 +1,6 @@
+title: Sistema Económico
+icon: lucide:piggy-bank
+navigation.redirect: /sistema-economico/como-ganar-dinero
+sidebar:
+  style: group
+collapse: false
